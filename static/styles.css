@@ -1,0 +1,48 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+
+.input{
+  text-align: center;
+  margin-left: 380px;
+  margin-right: auto;
+  font-size: 16px;
+  padding: 15px 32px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  transition-duration: 0.4s;
+  background-color: rgb(255, 240, 240);
+  padding: 10px 24px;
+  width: 20%;
+}
+
+.button1 {
+  text-align: center;
+  margin-left: 400px;
+  margin-right: auto;
+  font-size: 16px;
+  padding: 15px 32px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  transition-duration: 0.4s;
+  background-color: rgb(255, 240, 240);
+  padding: 10px 24px;
+  width: 20%;
+}
+
+.button1:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  background-color: #0a0909; 
+  color: white;
+}
+
+
+.result{
+  text-align: center;
+  font: 100;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin-left: 200px;
+  margin-right: 200px;
+  font-size: 20px;
+}
