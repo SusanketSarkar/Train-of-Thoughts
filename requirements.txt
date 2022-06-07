@@ -1,10 +1,9 @@
+python==3.10.4
 Flask==1.1.1
 Jinja2==2.10.1
 gunicorn==19.9.0
 certifi==2019.11.28
 itsdangerous==1.1.0
 rust
-curl https://sh.rustup.rs -sSf | sh
-export PATH=$PATH:~/.cargo/bin
 transformers==2.4.1
 
