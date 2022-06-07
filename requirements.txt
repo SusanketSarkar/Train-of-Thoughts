@@ -4,6 +4,7 @@ gunicorn==19.9.0
 certifi==2019.11.28
 itsdangerous==1.1.0
 rust
+setuptools
 torch==1.11.0
 transformers
 tokenizers==0.10.3
