@@ -7,3 +7,4 @@ transformers==4.3.3
 tokenizers
 rust
 wheel
+--upgrade pip
